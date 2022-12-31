@@ -7,7 +7,7 @@ Lets Grow More Virtual Internship Program(LGMVIP) Beginner level and Intermediat
 
  **Beginner Level**  
  
-- ![#1589F0]([[https://placehold.co/15x15/1589F0/1589F0.png](https://placehold.it/150/ffffff/ff0000?text=TASK-1)]) `#1589F0`
+[1] Task-1 
 
 **Iris Flowers Classification ML Project**
 

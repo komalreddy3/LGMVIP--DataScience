@@ -38,3 +38,15 @@ We need to read the image in RBG format and then convert it to a grayscale image
 **Exploratory Data Analysis on Dataset - Terrorism**
 
 As a security/ defense analyst,try to find out the hot zone of terrorism. You can choose any of the tool of your choice(Python/r/Tableau/PowerBI/Excel/SAP/SAS)
+
+```diff
+- Advanced Level
+``` 
+
+```diff
+@@ TASK - 2 @@
+```
+
+**Next Word Prediction**
+
+Using Tensorflow and keras library train a RNN, to predict the next word.
